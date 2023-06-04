@@ -4,7 +4,7 @@ title: Edmodo
 year: 2008
 image_url: /images/Edmodo.png
 caption: 'Το Edmodo είναι μια web πλατφόρμα, που παρέχει έναν ασφαλή και εύκολο τρόπο σύνδεσης και συνεργασίας μεταξύ μαθητών και εκπαιδευτικών. Η πλατφόρμα διαθέτει ποικίλα εργαλεία και δυνατότητες όπως η δημοσίευση εκπαιδευτικού περιεχομένου και υλικού.'
-license_url: 
+license_url: 'http://edmodo.com/'
 license_text: edmodo.com
 categories:
  - Μοντέλα
